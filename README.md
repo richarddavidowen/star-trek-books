@@ -10,3 +10,5 @@ Next.js catalogue and personal reading tracker.
 ## Environment
 
 Copy `.env.example` to `.env.local` and supply the Supabase URL and publishable key.
+
+Deployment is connected to Vercel from the `main` branch.

@@ -1,0 +1,1 @@
+.booktitle{color:inherit;text-decoration:none;text-underline-offset:3px}.booktitle:hover,.booktitle:focus-visible{color:var(--cyan);text-decoration:underline}.booktitle::after{content:' ↗';font-size:.72em;opacity:.55}html[data-theme="lcars"] .booktitle:hover,html[data-theme="lcars"] .booktitle:focus-visible{color:var(--lcars-yellow)}
